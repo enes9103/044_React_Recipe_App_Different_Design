@@ -1,5 +1,6 @@
 /* --- NavBar ----- */
-@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 .navbar {
   display: flex;
@@ -30,7 +31,7 @@ body {
 
 .navbar a:focus {
   font-weight: bold;
-  background-color: #FFA8A8;
+  background-color: #D2DBE9;
   color: #305050;
   height: 8vh;
   display: flex;
@@ -50,7 +51,7 @@ body {
 }
 
 .home h1 {
-  font-family: 'Rubik Moonrocks', cursive;
+  font-family: 'Rubik Microbe', cursive;
   font-size: 3.5rem;
   word-spacing: 1rem;
   font-variant: small-caps;
@@ -59,8 +60,8 @@ body {
 .searchBar {
   height: 2rem;
   padding: 0.5rem;
-  background-color: #7eafaf;
-  border: 1px solid #7eafaf;
+  background-color: #c8a593;
+  border: 1px solid #c8a593;
   border-radius: 0.5rem;
   display: flex;
   justify-content: space-around;
@@ -69,7 +70,7 @@ body {
 }
 
 .btn-grad {
-  background-image: linear-gradient(to right, #3CA55C 0%, #B5AC49 51%, #3CA55C 100%);
+  background-image: linear-gradient(to right, #D2DBE9 0%, #adc1e2 51%, #1b4485 100%);
   text-align: center;
   text-transform: uppercase;
   transition: 0.5s;
@@ -121,7 +122,7 @@ body {
   align-items: center;
   padding-top: 2rem;
   background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Playfair Display', serif;
   word-spacing: 0.3rem;
 }
 
@@ -143,7 +144,7 @@ body {
 
 .aboutParag span {
   text-align: center;
-  font-family: 'Beau Rivage', cursive;
+  font-family: 'Rubik Microbe', cursive;
   font-size: 2.5rem;
   letter-spacing: 0.2rem;
   font-variant: small-caps;
