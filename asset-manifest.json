@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/044_React_Recipe_App_Different_Design/static/css/main.7850ef21.css",
+    "main.js": "/044_React_Recipe_App_Different_Design/static/js/main.50896f3e.js",
+    "static/media/login.jpg": "/044_React_Recipe_App_Different_Design/static/media/login.154277bcaa6bb72fdc42.jpg",
+    "static/media/about.jpg": "/044_React_Recipe_App_Different_Design/static/media/about.055330cf689f2c8c1b4d.jpg",
+    "static/media/home.jpg": "/044_React_Recipe_App_Different_Design/static/media/home.fb030e82fbe67fcf0729.jpg",
+    "index.html": "/044_React_Recipe_App_Different_Design/index.html",
+    "main.7850ef21.css.map": "/044_React_Recipe_App_Different_Design/static/css/main.7850ef21.css.map",
+    "main.50896f3e.js.map": "/044_React_Recipe_App_Different_Design/static/js/main.50896f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7850ef21.css",
+    "static/js/main.50896f3e.js"
+  ]
+}
